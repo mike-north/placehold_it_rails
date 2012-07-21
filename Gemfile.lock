@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    placehold_it (0.0.1)
+    placehold_it (0.0.2)
       actionpack (~> 3.2)
 
 GEM
