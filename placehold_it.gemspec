@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Easy image placeholders from placehold.it"
   s.description = "A lightweight gem to facilitate use of image placeholders from placehold.it"
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.markdown"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "actionpack", "~> 3.2"
